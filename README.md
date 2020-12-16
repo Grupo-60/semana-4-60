@@ -1,7 +1,2 @@
-# Estructura Evaluacion semana 4
-
-#  Comando
-```
-npm install
-```
+Semana 4 Grupo 60
 
